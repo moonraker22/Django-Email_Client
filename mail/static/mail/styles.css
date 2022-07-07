@@ -1,0 +1,11 @@
+textarea {
+    min-height: 350px;
+}
+
+.emailRow:hover {
+    scale: 1.2;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
